@@ -1,0 +1,475 @@
+2025-04-29 01:06:41,714 - __main__ - INFO - Starting protein embedding analysis using model: facebook/esm2_t33_650M_UR50D
+2025-04-29 01:06:41,715 - __main__ - INFO - Initializing ProteinPairAnalyzer with model: facebook/esm2_t33_650M_UR50D
+2025-04-29 01:06:41,716 - __main__ - INFO - Loading model and tokenizer...
+2025-04-29 01:06:51,599 - __main__ - INFO - Starting protein embedding analysis using model: facebook/esm2_t33_650M_UR50D
+2025-04-29 01:06:51,602 - __main__ - INFO - Initializing ProteinPairAnalyzer with model: facebook/esm2_t33_650M_UR50D
+2025-04-29 01:06:51,602 - __main__ - INFO - Loading model and tokenizer...
+2025-04-29 01:06:52,034 - __main__ - INFO - Model and tokenizer loaded successfully
+2025-04-29 01:06:52,034 - __main__ - INFO - Loading protein pairs from ./protein_pairs
+2025-04-29 01:06:52,035 - __main__ - INFO - Found 0 protein pair directories
+2025-04-29 01:06:52,036 - __main__ - INFO - Successfully loaded 0 protein pairs
+2025-04-29 01:06:52,037 - __main__ - ERROR - No valid protein pairs found. Exiting.
+2025-04-29 01:06:52,042 - __main__ - INFO - Initializing ProteinPairAnalyzer with model: facebook/esm2_t33_650M_UR50D
+2025-04-29 01:06:52,044 - __main__ - INFO - Loading model and tokenizer...
+2025-04-29 01:06:52,394 - __main__ - INFO - Model and tokenizer loaded successfully
+2025-04-29 01:06:52,396 - __main__ - INFO - Loading protein pairs from ./protein_pairs
+2025-04-29 01:06:52,397 - __main__ - INFO - Found 0 protein pair directories
+2025-04-29 01:06:52,397 - __main__ - INFO - Successfully loaded 0 protein pairs
+2025-04-29 01:07:32,989 - __main__ - INFO - Starting protein embedding analysis using model: facebook/esm2_t33_650M_UR50D
+2025-04-29 01:07:32,990 - __main__ - INFO - Initializing ProteinPairAnalyzer with model: facebook/esm2_t33_650M_UR50D
+2025-04-29 01:07:32,991 - __main__ - INFO - Loading model and tokenizer...
+2025-04-29 01:07:34,428 - __main__ - INFO - Model and tokenizer loaded successfully
+2025-04-29 01:07:34,429 - __main__ - INFO - Loading protein pairs from /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs
+2025-04-29 01:07:34,430 - __main__ - INFO - Found 152 protein pair directories
+2025-04-29 01:07:34,432 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_1D2K_1LL6/1LL6.pdb
+2025-04-29 01:07:34,434 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_2OV3_2OV1/2OV1.pdb
+2025-04-29 01:07:34,435 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_1NX9_1RYY/1NX9.pdb
+2025-04-29 01:07:34,435 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_1N5H_1PFP/1N5H.pdb
+2025-04-29 01:07:34,436 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_7XWJ_7XWM/7XWJ.pdb
+2025-04-29 01:07:34,439 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_8VHH_8EH1/8VHH.pdb
+2025-04-29 01:07:34,440 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_8ZAX_8YAI/8YAI.pdb
+2025-04-29 01:07:34,444 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_3A70_2ZJ7/3A70.pdb
+2025-04-29 01:07:34,447 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_6SVM_6R4J/6R4J.pdb
+2025-04-29 01:07:34,450 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_3A30_3A2Z/3A2Z.pdb
+2025-04-29 01:07:34,451 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_2LUD_2JO7/2JO7.pdb
+2025-04-29 01:07:34,453 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_3K7H_3K7I/3K7H.pdb
+2025-04-29 01:07:34,454 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_8HE4_8HF9/8HF9.pdb
+2025-04-29 01:07:34,456 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_6GS7_6GS4/6GS4.pdb
+2025-04-29 01:07:34,458 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_4A7Y_4A7K/4A7K.pdb
+2025-04-29 01:07:34,458 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_5J4N_5J4I/5J4N.pdb
+2025-04-29 01:07:34,459 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_5T6B_5T67/5T6B.pdb
+2025-04-29 01:07:34,460 - __main__ - INFO - Successfully loaded 135 protein pairs
+2025-04-29 01:07:34,488 - __main__ - INFO - Analyzing pair: 7UVC_7UV8
+2025-04-29 01:07:44,023 - __main__ - INFO - Analyzing pair: 6LBQ_6LB1
+2025-04-29 01:07:58,889 - __main__ - INFO - Analyzing pair: 3VOD_3VOE
+2025-04-29 01:08:12,188 - __main__ - INFO - Analyzing pair: 9GAY_9GAZ
+2025-04-29 01:08:22,160 - __main__ - INFO - Analyzing pair: 8CJQ_8CJP
+2025-04-29 01:08:23,158 - __main__ - INFO - Analyzing pair: 8DN9_8DNA
+2025-04-29 01:08:26,606 - __main__ - INFO - Analyzing pair: 2L6C_2L6D
+2025-04-29 01:08:30,029 - __main__ - INFO - Analyzing pair: 2M50_5T3M
+2025-04-29 01:08:32,527 - __main__ - INFO - Analyzing pair: 2RO3_2FY9
+2025-04-29 01:08:34,809 - __main__ - INFO - Analyzing pair: 6E4J_6NS8
+2025-04-29 01:08:38,135 - __main__ - INFO - Analyzing pair: 6AJ4_6AJL
+2025-04-29 01:08:48,929 - __main__ - INFO - Analyzing pair: 6FFU_6FFQ
+2025-04-29 01:08:53,317 - __main__ - INFO - Analyzing pair: 2MMX_2MKW
+2025-04-29 01:09:03,078 - __main__ - INFO - Analyzing pair: 9GDN_9G32
+2025-04-29 01:09:06,671 - __main__ - INFO - Analyzing pair: 6PIP_6PIO
+2025-04-29 01:09:11,596 - __main__ - INFO - Analyzing pair: 2N7P_2NB4
+2025-04-29 01:09:19,077 - __main__ - INFO - Analyzing pair: 6NS8_6E4J
+2025-04-29 01:09:20,580 - __main__ - INFO - Analyzing pair: 7VIK_7VII
+2025-04-29 01:09:25,936 - __main__ - INFO - Analyzing pair: 1HCE_1HCD
+2025-04-29 01:09:27,516 - __main__ - INFO - Analyzing pair: 9IVR_9IVS
+2025-04-29 01:09:30,827 - __main__ - INFO - Analyzing pair: 7XGZ_7XPB
+2025-04-29 01:09:36,847 - __main__ - INFO - Analyzing pair: 2MLA_2MLD
+2025-04-29 01:09:38,040 - __main__ - INFO - Analyzing pair: 9JKA_9JK7
+2025-04-29 01:09:47,035 - __main__ - INFO - Analyzing pair: 8GBC_8GBD
+2025-04-29 01:09:50,388 - __main__ - INFO - Analyzing pair: 2JTS_2JTR
+2025-04-29 01:09:54,205 - __main__ - INFO - Analyzing pair: 8JTW_8JTY
+2025-04-29 01:10:10,865 - __main__ - INFO - Analyzing pair: 9CHS_9CHQ
+2025-04-29 01:10:26,671 - __main__ - INFO - Analyzing pair: 2BGP_2BGO
+2025-04-29 01:10:28,563 - __main__ - INFO - Analyzing pair: 5U9K_5U9A
+2025-04-29 01:10:30,945 - __main__ - INFO - Analyzing pair: 8CJP_8CIQ
+2025-04-29 01:10:39,214 - __main__ - INFO - Analyzing pair: 6X8T_6X8M
+2025-04-29 01:10:45,609 - __main__ - INFO - Analyzing pair: 6RW8_6YEY
+2025-04-29 01:11:35,398 - __main__ - INFO - Analyzing pair: 1CAU_1CAV
+2025-04-29 01:11:40,736 - __main__ - INFO - Analyzing pair: 8GBD_8GBC
+2025-04-29 01:11:43,919 - __main__ - INFO - Analyzing pair: 1M4P_1M4Q
+2025-04-29 01:11:47,804 - __main__ - INFO - Analyzing pair: 2M6Q_1PQX
+2025-04-29 01:11:49,891 - __main__ - INFO - Analyzing pair: 4CKH_4CKG
+2025-04-29 01:11:56,933 - __main__ - INFO - Analyzing pair: 1YJR_1YJU
+2025-04-29 01:11:58,982 - __main__ - INFO - Analyzing pair: 2MHV_2KCN
+2025-04-29 01:12:00,890 - __main__ - INFO - Analyzing pair: 1GGB_1GGC
+2025-04-29 01:12:10,134 - __main__ - INFO - Analyzing pair: 4BK5_4BKA
+2025-04-29 01:12:29,059 - __main__ - INFO - Analyzing pair: 3HR2_3HQV
+2025-04-29 01:13:03,116 - __main__ - INFO - Analyzing pair: 5UCE_5UCF
+2025-04-29 01:13:04,542 - __main__ - INFO - Analyzing pair: 1E1W_1HJM
+2025-04-29 01:13:07,771 - __main__ - INFO - Analyzing pair: 3HQV_3HR2
+2025-04-29 01:13:54,320 - __main__ - INFO - Analyzing pair: 7ZCG_7ZCH
+2025-04-29 01:13:58,695 - __main__ - INFO - Analyzing pair: 8F0A_8F1U
+2025-04-29 01:14:06,580 - __main__ - INFO - Analyzing pair: 2RLG_2RLH
+2025-04-29 01:14:07,900 - __main__ - INFO - Analyzing pair: 1JMN_1JMP
+2025-04-29 01:14:11,837 - __main__ - INFO - Analyzing pair: 1FAI_2F19
+2025-04-29 01:14:24,233 - __main__ - INFO - Analyzing pair: 2KS9_2KSB
+2025-04-29 01:14:48,637 - __main__ - INFO - Analyzing pair: 7KTU_7KTW
+2025-04-29 01:15:03,640 - __main__ - INFO - Analyzing pair: 7NXI_7PGD
+2025-04-29 01:15:06,971 - __main__ - INFO - Analyzing pair: 8W5U_8W5V
+2025-04-29 01:15:17,792 - __main__ - INFO - Analyzing pair: 2H8N_2O94
+2025-04-29 01:15:22,597 - __main__ - INFO - Analyzing pair: 2LHE_2KDM
+2025-04-29 01:15:27,991 - __main__ - INFO - Analyzing pair: 8WWN_8WWK
+2025-04-29 01:16:01,085 - __main__ - INFO - Analyzing pair: 7DRS_7DRR
+2025-04-29 01:16:11,276 - __main__ - INFO - Analyzing pair: 7PDH_7PDD
+2025-04-29 01:16:35,804 - __main__ - INFO - Analyzing pair: 9FHP_6RTK
+2025-04-29 01:16:47,752 - __main__ - INFO - Analyzing pair: 8TDM_8TDK
+2025-04-29 01:17:02,076 - __main__ - INFO - Analyzing pair: 9GAZ_9GAY
+2025-04-29 01:17:10,062 - __main__ - INFO - Analyzing pair: 2M78_2M79
+2025-04-29 01:17:11,339 - __main__ - INFO - Analyzing pair: 6RW9_6YEW
+2025-04-29 01:18:01,607 - __main__ - INFO - Analyzing pair: 8HHH_8HHG
+2025-04-29 01:18:09,303 - __main__ - INFO - Analyzing pair: 3L10_3L0W
+2025-04-29 01:18:13,396 - __main__ - INFO - Analyzing pair: 7FEB_7FEC
+2025-04-29 01:18:17,906 - __main__ - INFO - Analyzing pair: 8W5V_8W5P
+2025-04-29 01:18:24,862 - __main__ - INFO - Analyzing pair: 2K1E_2KB1
+2025-04-29 01:18:31,985 - __main__ - INFO - Analyzing pair: 1DJF_1DN3
+2025-04-29 01:18:34,453 - __main__ - INFO - Analyzing pair: 8DEE_8DEC
+2025-04-29 01:18:59,656 - __main__ - INFO - Analyzing pair: 8DKX_8DKW
+2025-04-29 01:19:10,848 - __main__ - INFO - Analyzing pair: 6SN5_6SN9
+2025-04-29 01:19:32,402 - __main__ - INFO - Analyzing pair: 2ROG_2ROE
+2025-04-29 01:19:37,298 - __main__ - INFO - Analyzing pair: 1CAW_1CAV
+2025-04-29 01:19:47,107 - __main__ - INFO - Analyzing pair: 8H96_8H94
+2025-04-29 01:20:13,989 - __main__ - INFO - Analyzing pair: 2L8N_2LCV
+2025-04-29 01:20:16,994 - __main__ - INFO - Analyzing pair: 2JZQ_2LWZ
+2025-04-29 01:20:18,398 - __main__ - INFO - Analyzing pair: 7ROI_7RO4
+2025-04-29 01:20:21,060 - __main__ - INFO - Analyzing pair: 3J1T_3J1U
+2025-04-29 01:20:35,942 - __main__ - INFO - Analyzing pair: 7UV8_7UVC
+2025-04-29 01:20:46,021 - __main__ - INFO - Analyzing pair: 2AAP_1ZJQ
+2025-04-29 01:20:50,274 - __main__ - INFO - Analyzing pair: 8WB7_8WB6
+2025-04-29 01:21:05,997 - __main__ - INFO - Analyzing pair: 4V3N_4V3A
+2025-04-29 01:21:14,523 - __main__ - INFO - Analyzing pair: 2MI9_2MIA
+2025-04-29 01:21:15,637 - __main__ - INFO - Analyzing pair: 9K2H_8IOM
+2025-04-29 01:21:18,634 - __main__ - INFO - Analyzing pair: 7ZCH_7ZCG
+2025-04-29 01:21:24,888 - __main__ - INFO - Analyzing pair: 2MO0_2MO1
+2025-04-29 01:21:26,528 - __main__ - INFO - Analyzing pair: 2JWL_2JWK
+2025-04-29 01:21:28,994 - __main__ - INFO - Analyzing pair: 7VAG_7VAD
+2025-04-29 01:21:47,661 - __main__ - INFO - Analyzing pair: 2KOZ_2KP0
+2025-04-29 01:21:58,238 - __main__ - INFO - Analyzing pair: 2JS9_2JSA
+2025-04-29 01:22:00,076 - __main__ - INFO - Analyzing pair: 8PBX_8PBY
+2025-04-29 01:22:41,527 - __main__ - INFO - Analyzing pair: 7WL8_7WL2
+2025-04-29 01:23:02,487 - __main__ - INFO - Analyzing pair: 2YT2_2KUQ
+2025-04-29 01:23:09,705 - __main__ - INFO - Analyzing pair: 9H5G_9H5J
+2025-04-29 01:23:13,568 - __main__ - INFO - Analyzing pair: 3IXW_3IXV
+2025-04-29 01:23:21,965 - __main__ - INFO - Analyzing pair: 4U4J_4U48
+2025-04-29 01:23:47,285 - __main__ - INFO - Analyzing pair: 2JGX_2JGW
+2025-04-29 01:23:53,066 - __main__ - INFO - Analyzing pair: 8H9R_8H9K
+2025-04-29 01:24:08,779 - __main__ - INFO - Analyzing pair: 2K2P_2N4C
+2025-04-29 01:24:13,504 - __main__ - INFO - Analyzing pair: 8W5P_8W5V
+2025-04-29 01:24:18,131 - __main__ - INFO - Analyzing pair: 2LWE_2LWD
+2025-04-29 01:24:20,828 - __main__ - INFO - Analyzing pair: 1A1W_1A1Z
+2025-04-29 01:24:25,095 - __main__ - INFO - Analyzing pair: 2LX3_2LX2
+2025-04-29 01:24:26,681 - __main__ - INFO - Analyzing pair: 2F19_1FAI
+2025-04-29 01:24:33,329 - __main__ - INFO - Analyzing pair: 8A01_8A03
+2025-04-29 01:24:44,636 - __main__ - INFO - Analyzing pair: 1ATD_1ATE
+2025-04-29 01:24:50,207 - __main__ - INFO - Analyzing pair: 8DEC_8DEE
+2025-04-29 01:25:13,181 - __main__ - INFO - Analyzing pair: 5GM1_5GM2
+2025-04-29 01:25:24,736 - __main__ - WARNING - Different number of CA atoms in structures: 5064 vs 4949
+2025-04-29 01:25:24,747 - __main__ - INFO - Analyzing pair: 1HO7_1HO2
+2025-04-29 01:25:25,614 - __main__ - INFO - Analyzing pair: 7VAD_7VAG
+2025-04-29 01:25:38,780 - __main__ - INFO - Analyzing pair: 2MTT_2MTU
+2025-04-29 01:25:42,684 - __main__ - INFO - Analyzing pair: 6LB1_6LBO
+2025-04-29 01:25:57,660 - __main__ - INFO - Analyzing pair: 7KAH_7KAO
+2025-04-29 01:26:19,992 - __main__ - INFO - Analyzing pair: 2N2G_2M3J
+2025-04-29 01:26:24,326 - __main__ - INFO - Analyzing pair: 7BZ7_7BZA
+2025-04-29 01:26:25,326 - __main__ - INFO - Analyzing pair: 2LX2_2LX3
+2025-04-29 01:26:26,413 - __main__ - INFO - Analyzing pair: 1JBN_1O8Z
+2025-04-29 01:26:27,553 - __main__ - INFO - Analyzing pair: 2LZX_2LQA
+2025-04-29 01:26:29,198 - __main__ - INFO - Analyzing pair: 2KA3_2OII
+2025-04-29 01:26:36,618 - __main__ - INFO - Analyzing pair: 8GCN_9B4Y
+2025-04-29 01:26:59,977 - __main__ - INFO - Analyzing pair: 9B4Y_8GCN
+2025-04-29 01:27:10,414 - __main__ - INFO - Analyzing pair: 7BZA_7BZ7
+2025-04-29 01:27:11,365 - __main__ - INFO - Analyzing pair: 1O7C_1O7B
+2025-04-29 01:27:15,273 - __main__ - INFO - Analyzing pair: 2LWD_2LWE
+2025-04-29 01:27:17,783 - __main__ - INFO - Analyzing pair: 2O94_2H8N
+2025-04-29 01:27:20,002 - __main__ - INFO - Analyzing pair: 2LTB_2LTC
+2025-04-29 01:27:23,433 - __main__ - INFO - Analyzing pair: 9LDR_9KY5
+2025-04-29 01:27:41,227 - __main__ - INFO - Analyzing pair: 8V2S_8V2R
+2025-04-29 01:27:55,249 - __main__ - INFO - Analyzing pair: 6CKD_6CKF
+2025-04-29 01:27:56,866 - __main__ - INFO - Analyzing pair: 2J53_2J52
+2025-04-29 01:27:57,906 - __main__ - INFO - Analyzing pair: 5U9A_5U9K
+2025-04-29 01:28:00,121 - __main__ - INFO - Analyzing pair: 3L0W_3L10
+2025-04-29 01:28:03,876 - __main__ - INFO - Analyzing pair: 6AJL_6AJ4
+2025-04-29 01:28:11,768 - __main__ - INFO - Generating visualizations
+2025-04-29 01:28:17,627 - __main__ - INFO - Analysis completed. Results saved to ./results
+2025-04-29 01:28:17,658 - __main__ - INFO - Initializing ProteinPairAnalyzer with model: facebook/esm2_t33_650M_UR50D
+2025-04-29 01:28:17,659 - __main__ - INFO - Loading model and tokenizer...
+2025-04-29 01:28:18,386 - __main__ - INFO - Model and tokenizer loaded successfully
+2025-04-29 01:28:18,390 - __main__ - INFO - Loading protein pairs from /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs
+2025-04-29 01:28:18,392 - __main__ - INFO - Found 150 protein pair directories
+2025-04-29 01:28:18,407 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_1D2K_1LL6/1LL6.pdb
+2025-04-29 01:28:18,411 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_2OV3_2OV1/2OV1.pdb
+2025-04-29 01:28:18,413 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_1N5H_1PFP/1N5H.pdb
+2025-04-29 01:28:18,415 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_7XWJ_7XWM/7XWJ.pdb
+2025-04-29 01:28:18,430 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_3A70_2ZJ7/3A70.pdb
+2025-04-29 01:28:18,432 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_6SVM_6R4J/6R4J.pdb
+2025-04-29 01:28:18,436 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_3A30_3A2Z/3A2Z.pdb
+2025-04-29 01:28:18,440 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_3K7H_3K7I/3K7H.pdb
+2025-04-29 01:28:18,441 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_8HE4_8HF9/8HF9.pdb
+2025-04-29 01:28:18,449 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_4A7Y_4A7K/4A7K.pdb
+2025-04-29 01:28:18,449 - __main__ - WARNING - Missing file: /Users/sbarazan/Documents/Semester 2/struct/project/gpt/pdb_mutant_pairs/pair_5J4N_5J4I/5J4N.pdb
+2025-04-29 01:28:18,451 - __main__ - INFO - Successfully loaded 139 protein pairs
+2025-04-29 01:41:35,130 - __main__ - INFO - Starting protein embedding analysis using model: facebook/esm2_t33_650M_UR50D
+2025-04-29 01:41:35,132 - __main__ - INFO - Initializing ProteinPairAnalyzer with model: facebook/esm2_t33_650M_UR50D
+2025-04-29 01:41:35,133 - __main__ - INFO - Loading model and tokenizer...
+2025-04-29 01:41:35,962 - __main__ - INFO - Model and tokenizer loaded successfully
+2025-04-29 01:41:35,963 - __main__ - INFO - Loading protein pairs from ./protein_pairs
+2025-04-29 01:41:35,964 - __main__ - INFO - Found 0 protein pair directories
+2025-04-29 01:41:35,964 - __main__ - INFO - Successfully loaded 0 protein pairs
+2025-04-29 01:41:35,965 - __main__ - ERROR - No valid protein pairs found. Exiting.
+2025-04-29 01:41:35,978 - __main__ - INFO - Initializing ProteinPairAnalyzer with model: facebook/esm2_t33_650M_UR50D
+2025-04-29 01:41:35,979 - __main__ - INFO - Loading model and tokenizer...
+2025-04-29 01:41:36,388 - __main__ - INFO - Model and tokenizer loaded successfully
+2025-04-29 01:41:36,424 - __main__ - INFO - Loading protein pairs from ./protein_pairs
+2025-04-29 01:41:36,425 - __main__ - INFO - Found 0 protein pair directories
+2025-04-29 01:41:36,425 - __main__ - INFO - Successfully loaded 0 protein pairs
+2025-04-29 01:42:06,138 - __main__ - INFO - Starting protein embedding analysis using model: facebook/esm2_t33_650M_UR50D
+2025-04-29 01:42:06,434 - __main__ - INFO - Initializing ProteinPairAnalyzer with model: facebook/esm2_t33_650M_UR50D
+2025-04-29 01:42:06,671 - __main__ - INFO - Loading model and tokenizer...
+2025-04-29 01:42:07,464 - __main__ - INFO - Model and tokenizer loaded successfully
+2025-04-29 01:42:07,466 - __main__ - INFO - Loading protein pairs from ./pdb_mutant_pairs
+2025-04-29 01:42:07,468 - __main__ - INFO - Found 150 protein pair directories
+2025-04-29 01:42:07,517 - __main__ - WARNING - Missing files for pair 1D2K_1LL6: ['mut_pdb']
+2025-04-29 01:42:07,541 - __main__ - WARNING - Missing files for pair 2OV3_2OV1: ['mut_pdb']
+2025-04-29 01:42:07,544 - __main__ - WARNING - Missing files for pair 1N5H_1PFP: ['wt_pdb', 'mut_pdb']
+2025-04-29 01:42:07,545 - __main__ - WARNING - Missing files for pair 7XWJ_7XWM: ['wt_pdb', 'mut_pdb']
+2025-04-29 01:42:07,558 - __main__ - WARNING - Missing files for pair 3A70_2ZJ7: ['wt_pdb', 'mut_pdb']
+2025-04-29 01:42:07,586 - __main__ - WARNING - Missing files for pair 6SVM_6R4J: ['mut_pdb']
+2025-04-29 01:42:07,604 - __main__ - WARNING - Missing files for pair 3A30_3A2Z: ['mut_pdb']
+2025-04-29 01:42:07,607 - __main__ - WARNING - Missing files for pair 3K7H_3K7I: ['wt_pdb', 'mut_pdb']
+2025-04-29 01:42:07,608 - __main__ - WARNING - Missing files for pair 8HE4_8HF9: ['mut_pdb']
+2025-04-29 01:42:07,615 - __main__ - WARNING - Missing files for pair 4A7Y_4A7K: ['mut_pdb']
+2025-04-29 01:42:07,615 - __main__ - WARNING - Missing files for pair 5J4N_5J4I: ['wt_pdb', 'mut_pdb']
+2025-04-29 01:42:07,617 - __main__ - INFO - Successfully loaded 139 protein pairs
+2025-04-29 01:42:07,624 - __main__ - INFO - Analyzing pair: 7UVC_7UV8
+2025-04-29 01:42:21,068 - __main__ - INFO - RMSD between 7UVC and 7UV8: 0.361 Å
+2025-04-29 01:42:21,101 - __main__ - INFO - Analyzing pair: 6LBQ_6LB1
+2025-04-29 01:42:30,672 - __main__ - INFO - RMSD between 6LBQ and 6LB1: 0.322 Å
+2025-04-29 01:42:30,674 - __main__ - INFO - Analyzing pair: 3VOD_3VOE
+2025-04-29 01:42:37,404 - __main__ - INFO - RMSD between 3VOD and 3VOE: 0.134 Å
+2025-04-29 01:42:37,406 - __main__ - INFO - Analyzing pair: 9GAY_9GAZ
+2025-04-29 01:42:51,851 - __main__ - INFO - RMSD between 9GAY and 9GAZ: 0.400 Å
+2025-04-29 01:42:51,862 - __main__ - INFO - Analyzing pair: 8CJQ_8CJP
+2025-04-29 01:42:53,775 - __main__ - INFO - RMSD between 8CJQ and 8CJP: 1.475 Å
+2025-04-29 01:42:53,776 - __main__ - INFO - Analyzing pair: 8DN9_8DNA
+2025-04-29 01:42:56,658 - __main__ - INFO - RMSD between 8DN9 and 8DNA: 0.411 Å
+2025-04-29 01:42:56,661 - __main__ - INFO - Analyzing pair: 2L6C_2L6D
+2025-04-29 01:43:01,003 - __main__ - INFO - RMSD between 2L6C and 2L6D: 1.803 Å
+2025-04-29 01:43:01,004 - __main__ - INFO - Analyzing pair: 2M50_5T3M
+2025-04-29 01:43:01,936 - __main__ - INFO - RMSD between 2M50 and 5T3M: 1.994 Å
+2025-04-29 01:43:01,937 - __main__ - INFO - Analyzing pair: 2RO3_2FY9
+2025-04-29 01:43:03,160 - __main__ - INFO - RMSD between 2RO3 and 2FY9: 1.306 Å
+2025-04-29 01:43:03,161 - __main__ - INFO - Analyzing pair: 6E4J_6NS8
+2025-04-29 01:43:04,989 - __main__ - INFO - RMSD between 6E4J and 6NS8: 1.832 Å
+2025-04-29 01:43:04,990 - __main__ - INFO - Analyzing pair: 6AJ4_6AJL
+2025-04-29 01:43:10,167 - __main__ - INFO - RMSD between 6AJ4 and 6AJL: 0.502 Å
+2025-04-29 01:43:10,172 - __main__ - INFO - Analyzing pair: 6FFU_6FFQ
+2025-04-29 01:43:11,906 - __main__ - INFO - RMSD between 6FFU and 6FFQ: 1.494 Å
+2025-04-29 01:43:11,908 - __main__ - INFO - Analyzing pair: 2MMX_2MKW
+2025-04-29 01:43:15,983 - __main__ - INFO - RMSD between 2MMX and 2MKW: 1.651 Å
+2025-04-29 01:43:16,002 - __main__ - INFO - Analyzing pair: 9GDN_9G32
+2025-04-29 01:43:17,652 - __main__ - INFO - RMSD between 9GDN and 9G32: 1.600 Å
+2025-04-29 01:43:17,653 - __main__ - INFO - Analyzing pair: 6PIP_6PIO
+2025-04-29 01:43:18,423 - __main__ - INFO - RMSD between 6PIP and 6PIO: 1.116 Å
+2025-04-29 01:43:18,424 - __main__ - INFO - Analyzing pair: 2N7P_2NB4
+2025-04-29 01:43:21,158 - __main__ - INFO - RMSD between 2N7P and 2NB4: 1.657 Å
+2025-04-29 01:43:21,159 - __main__ - INFO - Analyzing pair: 6NS8_6E4J
+2025-04-29 01:43:24,467 - __main__ - INFO - RMSD between 6NS8 and 6E4J: 1.832 Å
+2025-04-29 01:43:24,470 - __main__ - INFO - Analyzing pair: 7VIK_7VII
+2025-04-29 01:43:35,276 - __main__ - INFO - RMSD between 7VIK and 7VII: 0.846 Å
+2025-04-29 01:43:35,277 - __main__ - INFO - Analyzing pair: 1HCE_1HCD
+2025-04-29 01:43:43,532 - __main__ - INFO - RMSD between 1HCE and 1HCD: 1.401 Å
+2025-04-29 01:43:43,616 - __main__ - INFO - Analyzing pair: 9IVR_9IVS
+2025-04-29 01:43:56,782 - __main__ - INFO - RMSD between 9IVR and 9IVS: 1.732 Å
+2025-04-29 01:43:56,787 - __main__ - INFO - Analyzing pair: 7XGZ_7XPB
+2025-04-29 01:44:03,346 - __main__ - INFO - RMSD between 7XGZ and 7XPB: 1.347 Å
+2025-04-29 01:44:03,353 - __main__ - INFO - Analyzing pair: 2MLA_2MLD
+2025-04-29 01:44:05,038 - __main__ - INFO - RMSD between 2MLA and 2MLD: 1.233 Å
+2025-04-29 01:44:05,041 - __main__ - INFO - Analyzing pair: 9JKA_9JK7
+2025-04-29 01:44:14,986 - __main__ - INFO - RMSD between 9JKA and 9JK7: 0.430 Å
+2025-04-29 01:44:14,991 - __main__ - INFO - Analyzing pair: 8GBC_8GBD
+2025-04-29 01:44:17,536 - __main__ - INFO - RMSD between 8GBC and 8GBD: 1.987 Å
+2025-04-29 01:44:17,537 - __main__ - INFO - Analyzing pair: 2JTS_2JTR
+2025-04-29 01:44:20,087 - __main__ - INFO - RMSD between 2JTS and 2JTR: 1.352 Å
+2025-04-29 01:44:20,089 - __main__ - INFO - Analyzing pair: 8JTW_8JTY
+2025-04-29 01:44:39,200 - __main__ - INFO - RMSD between 8JTW and 8JTY: 0.860 Å
+2025-04-29 01:44:39,203 - __main__ - INFO - Analyzing pair: 9CHS_9CHQ
+2025-04-29 01:44:47,922 - __main__ - INFO - RMSD between 9CHS and 9CHQ: 0.399 Å
+2025-04-29 01:44:47,927 - __main__ - INFO - Analyzing pair: 2BGP_2BGO
+2025-04-29 01:44:55,065 - __main__ - INFO - RMSD between 2BGP and 2BGO: 1.837 Å
+2025-04-29 01:44:55,174 - __main__ - INFO - Analyzing pair: 5U9K_5U9A
+2025-04-29 01:45:03,019 - __main__ - INFO - RMSD between 5U9K and 5U9A: 0.449 Å
+2025-04-29 01:45:03,022 - __main__ - INFO - Analyzing pair: 8CJP_8CIQ
+2025-04-29 01:45:05,156 - __main__ - INFO - RMSD between 8CJP and 8CIQ: 1.320 Å
+2025-04-29 01:45:05,157 - __main__ - INFO - Analyzing pair: 6X8T_6X8M
+2025-04-29 01:45:09,385 - __main__ - INFO - RMSD between 6X8T and 6X8M: 0.322 Å
+2025-04-29 01:45:09,387 - __main__ - INFO - Analyzing pair: 6RW8_6YEY
+2025-04-29 01:45:34,315 - __main__ - INFO - RMSD between 6RW8 and 6YEY: 0.504 Å
+2025-04-29 01:45:34,316 - __main__ - INFO - Analyzing pair: 1CAU_1CAV
+2025-04-29 01:45:36,919 - __main__ - INFO - RMSD between 1CAU and 1CAV: 0.844 Å
+2025-04-29 01:45:36,920 - __main__ - INFO - Analyzing pair: 8GBD_8GBC
+2025-04-29 01:45:38,576 - __main__ - INFO - RMSD between 8GBD and 8GBC: 1.987 Å
+2025-04-29 01:45:38,577 - __main__ - INFO - Analyzing pair: 1M4P_1M4Q
+2025-04-29 01:45:41,258 - __main__ - INFO - RMSD between 1M4P and 1M4Q: 0.972 Å
+2025-04-29 01:45:41,259 - __main__ - INFO - Analyzing pair: 2M6Q_1PQX
+2025-04-29 01:45:42,700 - __main__ - INFO - RMSD between 2M6Q and 1PQX: 1.219 Å
+2025-04-29 01:45:42,701 - __main__ - INFO - Analyzing pair: 4CKH_4CKG
+2025-04-29 01:45:45,622 - __main__ - INFO - RMSD between 4CKH and 4CKG: 1.872 Å
+2025-04-29 01:45:45,623 - __main__ - INFO - Analyzing pair: 1YJR_1YJU
+2025-04-29 01:45:47,230 - __main__ - INFO - RMSD between 1YJR and 1YJU: 1.985 Å
+2025-04-29 01:45:47,231 - __main__ - INFO - Analyzing pair: 2MHV_2KCN
+2025-04-29 01:45:48,485 - __main__ - INFO - RMSD between 2MHV and 2KCN: 1.966 Å
+2025-04-29 01:45:48,486 - __main__ - INFO - Analyzing pair: 1GGB_1GGC
+2025-04-29 01:45:52,584 - __main__ - INFO - RMSD between 1GGB and 1GGC: 0.609 Å
+2025-04-29 01:45:52,585 - __main__ - INFO - Analyzing pair: 4BK5_4BKA
+2025-04-29 01:45:59,518 - __main__ - INFO - RMSD between 4BK5 and 4BKA: 1.793 Å
+2025-04-29 01:45:59,519 - __main__ - INFO - Analyzing pair: 3HR2_3HQV
+2025-04-29 01:46:17,652 - __main__ - INFO - RMSD between 3HR2 and 3HQV: 1.429 Å
+2025-04-29 01:46:17,653 - __main__ - INFO - Analyzing pair: 5UCE_5UCF
+2025-04-29 01:46:18,480 - __main__ - INFO - RMSD between 5UCE and 5UCF: 1.824 Å
+2025-04-29 01:46:18,481 - __main__ - INFO - Analyzing pair: 1E1W_1HJM
+2025-04-29 01:46:20,513 - __main__ - INFO - RMSD between 1E1W and 1HJM: 1.226 Å
+2025-04-29 01:46:20,514 - __main__ - INFO - Analyzing pair: 3HQV_3HR2
+2025-04-29 01:46:38,207 - __main__ - INFO - RMSD between 3HQV and 3HR2: 1.429 Å
+2025-04-29 01:46:38,208 - __main__ - INFO - Analyzing pair: 7ZCG_7ZCH
+2025-04-29 01:46:40,590 - __main__ - INFO - RMSD between 7ZCG and 7ZCH: 0.672 Å
+2025-04-29 01:46:40,590 - __main__ - INFO - Analyzing pair: 2M79_2M78
+2025-04-29 01:46:41,160 - __main__ - INFO - RMSD between 2M79 and 2M78: 0.910 Å
+2025-04-29 01:46:41,161 - __main__ - INFO - Analyzing pair: 8F0A_8F1U
+2025-04-29 01:46:44,996 - __main__ - INFO - RMSD between 8F0A and 8F1U: 0.001 Å
+2025-04-29 01:46:44,997 - __main__ - INFO - Analyzing pair: 2RLG_2RLH
+2025-04-29 01:46:45,612 - __main__ - INFO - RMSD between 2RLG and 2RLH: 1.893 Å
+2025-04-29 01:46:45,612 - __main__ - INFO - Analyzing pair: 1JMN_1JMP
+2025-04-29 01:46:46,758 - __main__ - INFO - RMSD between 1JMN and 1JMP: 1.949 Å
+2025-04-29 01:46:46,759 - __main__ - INFO - Analyzing pair: 1FAI_2F19
+2025-04-29 01:46:49,953 - __main__ - INFO - RMSD between 1FAI and 2F19: 0.558 Å
+2025-04-29 01:46:49,954 - __main__ - INFO - Analyzing pair: 2KS9_2KSB
+2025-04-29 01:46:53,102 - __main__ - INFO - RMSD between 2KS9 and 2KSB: 1.715 Å
+2025-04-29 01:46:53,103 - __main__ - INFO - Analyzing pair: 7KTU_7KTW
+2025-04-29 01:47:01,268 - __main__ - INFO - RMSD between 7KTU and 7KTW: 1.715 Å
+2025-04-29 01:47:01,269 - __main__ - INFO - Analyzing pair: 7NXI_7PGD
+2025-04-29 01:47:02,407 - __main__ - INFO - RMSD between 7NXI and 7PGD: 1.288 Å
+2025-04-29 01:47:02,408 - __main__ - INFO - Analyzing pair: 8W5U_8W5V
+2025-04-29 01:47:05,526 - __main__ - INFO - RMSD between 8W5U and 8W5V: 0.818 Å
+2025-04-29 01:47:05,532 - __main__ - INFO - Analyzing pair: 2H8N_2O94
+2025-04-29 01:47:07,028 - __main__ - INFO - RMSD between 2H8N and 2O94: 0.699 Å
+2025-04-29 01:47:07,029 - __main__ - INFO - Analyzing pair: 2LHE_2KDM
+2025-04-29 01:47:08,064 - __main__ - INFO - RMSD between 2LHE and 2KDM: 1.340 Å
+2025-04-29 01:47:08,065 - __main__ - INFO - Analyzing pair: 8WWN_8WWK
+2025-04-29 01:47:22,970 - __main__ - INFO - RMSD between 8WWN and 8WWK: 1.566 Å
+2025-04-29 01:47:22,970 - __main__ - INFO - Analyzing pair: 7DRS_7DRR
+2025-04-29 01:47:29,393 - __main__ - INFO - RMSD between 7DRS and 7DRR: 0.568 Å
+2025-04-29 01:47:29,394 - __main__ - INFO - Analyzing pair: 7PDH_7PDD
+2025-04-29 01:47:41,998 - __main__ - INFO - RMSD between 7PDH and 7PDD: 1.067 Å
+2025-04-29 01:47:41,999 - __main__ - INFO - Analyzing pair: 9FHP_6RTK
+2025-04-29 01:47:43,928 - __main__ - INFO - RMSD between 9FHP and 6RTK: 0.790 Å
+2025-04-29 01:47:43,929 - __main__ - INFO - Analyzing pair: 8TDM_8TDK
+2025-04-29 01:47:49,740 - __main__ - INFO - RMSD between 8TDM and 8TDK: 1.173 Å
+2025-04-29 01:47:49,741 - __main__ - INFO - Analyzing pair: 9GAZ_9GAY
+2025-04-29 01:47:53,960 - __main__ - INFO - RMSD between 9GAZ and 9GAY: 0.400 Å
+2025-04-29 01:47:53,961 - __main__ - INFO - Analyzing pair: 2M78_2M79
+2025-04-29 01:47:54,634 - __main__ - INFO - RMSD between 2M78 and 2M79: 0.910 Å
+2025-04-29 01:47:54,635 - __main__ - INFO - Analyzing pair: 6RW9_6YEW
+2025-04-29 01:48:17,227 - __main__ - INFO - RMSD between 6RW9 and 6YEW: 0.529 Å
+2025-04-29 01:48:17,228 - __main__ - INFO - Analyzing pair: 8HHH_8HHG
+2025-04-29 01:48:21,194 - __main__ - INFO - RMSD between 8HHH and 8HHG: 0.538 Å
+2025-04-29 01:48:21,195 - __main__ - INFO - Analyzing pair: 3L10_3L0W
+2025-04-29 01:48:24,084 - __main__ - INFO - RMSD between 3L10 and 3L0W: 1.040 Å
+2025-04-29 01:48:24,085 - __main__ - INFO - Analyzing pair: 8V2S_8V2Q
+2025-04-29 01:48:28,010 - __main__ - INFO - RMSD between 8V2S and 8V2Q: 0.645 Å
+2025-04-29 01:48:28,011 - __main__ - INFO - Analyzing pair: 7FEB_7FEC
+2025-04-29 01:48:31,240 - __main__ - INFO - RMSD between 7FEB and 7FEC: 0.414 Å
+2025-04-29 01:48:31,241 - __main__ - INFO - Analyzing pair: 8W5V_8W5P
+2025-04-29 01:48:34,229 - __main__ - INFO - RMSD between 8W5V and 8W5P: 0.641 Å
+2025-04-29 01:48:34,230 - __main__ - INFO - Analyzing pair: 2K1E_2KB1
+2025-04-29 01:48:37,584 - __main__ - INFO - RMSD between 2K1E and 2KB1: 0.213 Å
+2025-04-29 01:48:37,585 - __main__ - INFO - Analyzing pair: 1DJF_1DN3
+2025-04-29 01:48:38,155 - __main__ - INFO - RMSD between 1DJF and 1DN3: 1.532 Å
+2025-04-29 01:48:38,156 - __main__ - INFO - Analyzing pair: 8DEE_8DEC
+2025-04-29 01:48:47,460 - __main__ - INFO - RMSD between 8DEE and 8DEC: 0.123 Å
+2025-04-29 01:48:47,461 - __main__ - INFO - Analyzing pair: 8DKX_8DKW
+2025-04-29 01:48:53,837 - __main__ - INFO - RMSD between 8DKX and 8DKW: 0.418 Å
+2025-04-29 01:48:53,838 - __main__ - INFO - Analyzing pair: 6SN5_6SN9
+2025-04-29 01:49:07,097 - __main__ - INFO - RMSD between 6SN5 and 6SN9: 1.906 Å
+2025-04-29 01:49:07,098 - __main__ - INFO - Analyzing pair: 2ROG_2ROE
+2025-04-29 01:49:08,627 - __main__ - INFO - RMSD between 2ROG and 2ROE: 1.685 Å
+2025-04-29 01:49:08,628 - __main__ - INFO - Analyzing pair: 1CAW_1CAV
+2025-04-29 01:49:11,617 - __main__ - INFO - RMSD between 1CAW and 1CAV: 1.065 Å
+2025-04-29 01:49:11,617 - __main__ - INFO - Analyzing pair: 8H96_8H94
+2025-04-29 01:49:27,294 - __main__ - INFO - RMSD between 8H96 and 8H94: 0.602 Å
+2025-04-29 01:49:27,297 - __main__ - INFO - Analyzing pair: 2L8N_2LCV
+2025-04-29 01:49:28,219 - __main__ - INFO - RMSD between 2L8N and 2LCV: 1.331 Å
+2025-04-29 01:49:28,220 - __main__ - INFO - Analyzing pair: 2JZQ_2LWZ
+2025-04-29 01:49:29,261 - __main__ - INFO - RMSD between 2JZQ and 2LWZ: 1.742 Å
+2025-04-29 01:49:29,261 - __main__ - INFO - Analyzing pair: 7ROI_7RO4
+2025-04-29 01:49:30,899 - __main__ - INFO - RMSD between 7ROI and 7RO4: 0.159 Å
+2025-04-29 01:49:30,900 - __main__ - INFO - Analyzing pair: 3J1T_3J1U
+2025-04-29 01:49:39,166 - __main__ - INFO - RMSD between 3J1T and 3J1U: 1.751 Å
+2025-04-29 01:49:39,167 - __main__ - INFO - Analyzing pair: 7UV8_7UVC
+2025-04-29 01:49:42,143 - __main__ - INFO - RMSD between 7UV8 and 7UVC: 0.361 Å
+2025-04-29 01:49:42,144 - __main__ - INFO - Analyzing pair: 2AAP_1ZJQ
+2025-04-29 01:49:42,988 - __main__ - INFO - RMSD between 2AAP and 1ZJQ: 1.518 Å
+2025-04-29 01:49:42,989 - __main__ - INFO - Analyzing pair: 8WB7_8WB6
+2025-04-29 01:49:45,259 - __main__ - INFO - RMSD between 8WB7 and 8WB6: 0.946 Å
+2025-04-29 01:49:45,260 - __main__ - INFO - Analyzing pair: 4V3N_4V3A
+2025-04-29 01:49:49,898 - __main__ - INFO - RMSD between 4V3N and 4V3A: 0.587 Å
+2025-04-29 01:49:49,899 - __main__ - INFO - Analyzing pair: 2MI9_2MIA
+2025-04-29 01:49:50,675 - __main__ - INFO - RMSD between 2MI9 and 2MIA: 0.795 Å
+2025-04-29 01:49:50,676 - __main__ - INFO - Analyzing pair: 9K2H_8IOM
+2025-04-29 01:49:52,628 - __main__ - INFO - RMSD between 9K2H and 8IOM: 0.419 Å
+2025-04-29 01:49:52,629 - __main__ - INFO - Analyzing pair: 7ZCH_7ZCG
+2025-04-29 01:49:55,222 - __main__ - INFO - RMSD between 7ZCH and 7ZCG: 0.672 Å
+2025-04-29 01:49:55,223 - __main__ - INFO - Analyzing pair: 2MO0_2MO1
+2025-04-29 01:49:56,475 - __main__ - INFO - RMSD between 2MO0 and 2MO1: 1.194 Å
+2025-04-29 01:49:56,476 - __main__ - INFO - Analyzing pair: 2JWL_2JWK
+2025-04-29 01:49:58,192 - __main__ - INFO - RMSD between 2JWL and 2JWK: 0.941 Å
+2025-04-29 01:49:58,193 - __main__ - INFO - Analyzing pair: 7VAG_7VAD
+2025-04-29 01:50:04,982 - __main__ - INFO - RMSD between 7VAG and 7VAD: 0.649 Å
+2025-04-29 01:50:04,982 - __main__ - INFO - Analyzing pair: 2KOZ_2KP0
+2025-04-29 01:50:05,767 - __main__ - INFO - RMSD between 2KOZ and 2KP0: 1.767 Å
+2025-04-29 01:50:05,767 - __main__ - INFO - Analyzing pair: 2JS9_2JSA
+2025-04-29 01:50:07,568 - __main__ - INFO - RMSD between 2JS9 and 2JSA: 1.137 Å
+2025-04-29 01:50:07,569 - __main__ - INFO - Analyzing pair: 8PBX_8PBY
+2025-04-29 01:50:30,010 - __main__ - INFO - RMSD between 8PBX and 8PBY: 1.074 Å
+2025-04-29 01:50:30,011 - __main__ - INFO - Analyzing pair: 7WL8_7WL2
+2025-04-29 01:50:36,562 - __main__ - INFO - RMSD between 7WL8 and 7WL2: 0.324 Å
+2025-04-29 01:50:36,563 - __main__ - INFO - Analyzing pair: 2YT2_2KUQ
+2025-04-29 01:50:39,036 - __main__ - INFO - RMSD between 2YT2 and 2KUQ: 0.500 Å
+2025-04-29 01:50:39,037 - __main__ - INFO - Analyzing pair: 9H5G_9H5J
+2025-04-29 01:50:43,000 - __main__ - INFO - RMSD between 9H5G and 9H5J: 0.945 Å
+2025-04-29 01:50:43,001 - __main__ - INFO - Analyzing pair: 3IXW_3IXV
+2025-04-29 01:50:48,881 - __main__ - INFO - RMSD between 3IXW and 3IXV: 1.476 Å
+2025-04-29 01:50:48,882 - __main__ - INFO - Analyzing pair: 4U4J_4U48
+2025-04-29 01:51:02,724 - __main__ - INFO - RMSD between 4U4J and 4U48: 0.384 Å
+2025-04-29 01:51:02,725 - __main__ - INFO - Analyzing pair: 2JGX_2JGW
+2025-04-29 01:51:03,676 - __main__ - INFO - RMSD between 2JGX and 2JGW: 1.448 Å
+2025-04-29 01:51:03,677 - __main__ - INFO - Analyzing pair: 8H9R_8H9K
+2025-04-29 01:51:07,286 - __main__ - INFO - RMSD between 8H9R and 8H9K: 1.197 Å
+2025-04-29 01:51:07,287 - __main__ - INFO - Analyzing pair: 2K2P_2N4C
+2025-04-29 01:51:08,774 - __main__ - INFO - RMSD between 2K2P and 2N4C: 1.783 Å
+2025-04-29 01:51:08,775 - __main__ - INFO - Analyzing pair: 8W5P_8W5V
+2025-04-29 01:51:11,974 - __main__ - INFO - RMSD between 8W5P and 8W5V: 0.641 Å
+2025-04-29 01:51:11,975 - __main__ - INFO - Analyzing pair: 2LWE_2LWD
+2025-04-29 01:51:14,117 - __main__ - INFO - RMSD between 2LWE and 2LWD: 1.663 Å
+2025-04-29 01:51:14,118 - __main__ - INFO - Analyzing pair: 1A1W_1A1Z
+2025-04-29 01:51:15,983 - __main__ - INFO - RMSD between 1A1W and 1A1Z: 0.969 Å
+2025-04-29 01:51:15,984 - __main__ - INFO - Analyzing pair: 2LX3_2LX2
+2025-04-29 01:51:17,404 - __main__ - INFO - RMSD between 2LX3 and 2LX2: 0.789 Å
+2025-04-29 01:51:17,406 - __main__ - INFO - Analyzing pair: 2F19_1FAI
+2025-04-29 01:51:20,926 - __main__ - INFO - RMSD between 2F19 and 1FAI: 0.558 Å
+2025-04-29 01:51:20,927 - __main__ - INFO - Analyzing pair: 8A01_8A03
+2025-04-29 01:51:23,165 - __main__ - INFO - RMSD between 8A01 and 8A03: 0.607 Å
+2025-04-29 01:51:23,166 - __main__ - INFO - Analyzing pair: 1ATD_1ATE
+2025-04-29 01:51:24,392 - __main__ - INFO - RMSD between 1ATD and 1ATE: 1.648 Å
+2025-04-29 01:51:24,394 - __main__ - INFO - Analyzing pair: 8DEC_8DEE
+2025-04-29 01:51:33,543 - __main__ - INFO - RMSD between 8DEC and 8DEE: 0.123 Å
+2025-04-29 01:51:33,544 - __main__ - INFO - Analyzing pair: 5GM1_5GM2
+2025-04-29 01:51:36,733 - __main__ - WARNING - Cannot calculate RMSD: Different number of CA atoms (5064 vs 4949)
+2025-04-29 01:51:36,734 - __main__ - INFO - Analyzing pair: 1HO7_1HO2
+2025-04-29 01:51:37,283 - __main__ - INFO - RMSD between 1HO7 and 1HO2: 1.174 Å
+2025-04-29 01:51:37,283 - __main__ - INFO - Analyzing pair: 7VAD_7VAG
+2025-04-29 01:51:43,460 - __main__ - INFO - RMSD between 7VAD and 7VAG: 0.649 Å
+2025-04-29 01:51:43,462 - __main__ - INFO - Analyzing pair: 2MTT_2MTU
+2025-04-29 01:51:44,038 - __main__ - INFO - RMSD between 2MTT and 2MTU: 1.886 Å
+2025-04-29 01:51:44,039 - __main__ - INFO - Analyzing pair: 6LB1_6LBO
+2025-04-29 01:51:49,312 - __main__ - INFO - RMSD between 6LB1 and 6LBO: 0.322 Å
+2025-04-29 01:51:49,313 - __main__ - INFO - Analyzing pair: 7KAH_7KAO
+2025-04-29 01:52:04,513 - __main__ - INFO - RMSD between 7KAH and 7KAO: 0.842 Å
+2025-04-29 01:52:04,514 - __main__ - INFO - Analyzing pair: 2N2G_2M3J
+2025-04-29 01:52:05,546 - __main__ - INFO - RMSD between 2N2G and 2M3J: 0.829 Å
+2025-04-29 01:52:05,546 - __main__ - INFO - Analyzing pair: 7BZ7_7BZA
+2025-04-29 01:52:06,217 - __main__ - INFO - RMSD between 7BZ7 and 7BZA: 0.556 Å
+2025-04-29 01:52:06,218 - __main__ - INFO - Analyzing pair: 7VAG_7WSI
+2025-04-29 01:52:12,573 - __main__ - INFO - RMSD between 7VAG and 7WSI: 0.696 Å
+2025-04-29 01:52:12,574 - __main__ - INFO - Analyzing pair: 2LX2_2LX3
+2025-04-29 01:52:13,813 - __main__ - INFO - RMSD between 2LX2 and 2LX3: 0.789 Å
+2025-04-29 01:52:13,814 - __main__ - INFO - Analyzing pair: 1JBN_1O8Z
+2025-04-29 01:52:14,467 - __main__ - INFO - RMSD between 1JBN and 1O8Z: 1.260 Å
+2025-04-29 01:52:14,467 - __main__ - INFO - Analyzing pair: 2LZX_2LQA
+2025-04-29 01:52:15,472 - __main__ - INFO - RMSD between 2LZX and 2LQA: 1.130 Å
+2025-04-29 01:52:15,473 - __main__ - INFO - Analyzing pair: 2KA3_2OII
